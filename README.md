@@ -51,4 +51,4 @@ python standup.py
 - The design intentionally favors clarity and extensibility over full production integrations, making it suitable as a foundation for further development.
 
 ## Short Demo
-https://drive.google.com/file/d/1kCMyUG0AnCiEu9Ug3R33oZbTUQXYXLrh/view?usp=sharing
+https://drive.google.com/file/d/1uWm47XbvjDcV0uCoP4DPftLeLiRHIFcG/view?usp=sharing
