@@ -1,0 +1,21 @@
+{
+  "today": [
+    {
+      "id": "TASK-001",
+      "title": "Implement standup generator",
+      "source": "Jira",
+      "status": "In Progress"
+    },
+    {
+      "id": "TASK-002",
+      "title": "Refactor commit parsing logic",
+      "source": "Teams",
+      "status": "Done"
+    }
+  ],
+  "blockers": [
+    {
+      "reason": "Waiting for code review approval"
+    }
+  ]
+}
